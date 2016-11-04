@@ -1,0 +1,15 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\CompareImagesAForge.exe.config
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\CompareImagesAForge.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\CompareImagesAForge.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.dll
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Imaging.dll
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Math.dll
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.xml
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Imaging.xml
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\bin\Debug\AForge.Math.xml
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.csprojResolveAssemblyReference.cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.Form1.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.Properties.Resources.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.csproj.GenerateResource.Cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\CompareImagesAForge\CompareImagesAForge\obj\Debug\CompareImagesAForge.pdb
